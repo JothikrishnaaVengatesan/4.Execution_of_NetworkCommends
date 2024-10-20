@@ -26,7 +26,19 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
+## Program
+### client.py
+![alt text](<Screenshot 2024-10-20 133038.png>)
+### server.py
+![alt text](<Screenshot 2024-10-20 133031.png>)
+### traceroute command
+![alt text](<Screenshot 2024-10-20 133123.png>)
 ## Output
-
+### client.py
+![alt text](<Screenshot 2024-10-20 133539.png>)
+### server.py
+![alt text](<Screenshot 2024-10-20 133547.png>)
+### traceroute command
+![alt text](<Screenshot 2024-10-20 133558.png>)
 ## Result
 Thus Execution of Network commands Performed 
